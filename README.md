@@ -19,3 +19,10 @@ For the documentation of our APIs we used Swagger.
 - Run php artisan migrate:fresh --seed
 
 
+Important directory to understand 
+
+- Go to the "essitech-support" directory to see the realisation with Postman and Swagger.
+
+- The support for this course is called "Essitech REST-API-Laravel" and can be found in the "essitech-support" directory.
+
+
